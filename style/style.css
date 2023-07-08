@@ -49,7 +49,7 @@ main {
     margin: 30px auto;
     width: 70vw;
     height: 100vh;
-    background-color: red;
+    background-color: rgb(237, 216, 216);
 
 }
 
@@ -66,10 +66,11 @@ main {
 }
 
 .header-title{
-    color: yellowgreen;
+    color: rgb(22, 30, 250);
 }
 
 .p-tags {
+    text-align: left;
     padding-top: 0;
     margin-top: 0;
     padding-bottom: 18px;
@@ -81,7 +82,22 @@ main {
     text-align: left;
 }
 .container-2{
-    display: flex;
-    text-align: center;
+    display: block;
+    margin: 30px auto;
     width: 70vw;
+    height: 100vh;
+}
+.contain-d{
+    display: flex;
+    justify-content: space-between;
+}
+.containt-item{
+    display: block;
+    text-align: center;
+}
+.item-text{
+
+}
+.item-info{
+
 }
