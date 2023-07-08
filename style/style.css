@@ -85,7 +85,7 @@ main {
     display: block;
     margin: 30px auto;
     width: 70vw;
-    height: 100vh;
+    height: 50vh;
 }
 .contain-d{
     display: flex;
@@ -95,9 +95,17 @@ main {
     display: block;
     text-align: center;
 }
+.icon{
+    margin-top: 30px;
+}
 .item-text{
 
 }
 .item-info{
 
+}
+.container-3{
+    display: block;
+    text-align: center;
+    box-shadow: 7px 10px rgb(164, 222, 239);
 }
